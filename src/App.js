@@ -390,11 +390,11 @@ export default function App() {
           );
 
           background:
-            linear-gradient(
-              rgba(20,25,33,0.25),
-              rgba(20,25,33,0.25)
-            ),
-            url("/Profile.PNG");
+          linear-gradient(
+    rgba(20,25,33,0.15),
+    rgba(20,25,33,0.15)
+  ),
+  url("/Profile.PNG");
 
           background-size: cover;
           background-position: center top;
@@ -1327,8 +1327,7 @@ padding-bottom: 30px;
             </div>
 
             <p className="description">
-              I design, deploy and manage scalable cloud
-              infrastructure on Amazon Web Services.
+              I am an AWS Cloud Engineer based in Karachi, Pakistan, specializing in designing, deploying and managing scalable cloud infrastructure on Amazon Web Services. Recently completed AWS 3in1 certification program at Sherdil IT Academy building real infrastructure, not just theory.
             </p>
 
             <div className="socials">
