@@ -394,7 +394,7 @@ export default function App() {
               rgba(20,25,33,0.25),
               rgba(20,25,33,0.25)
             ),
-            url("/profile.png");
+            url("/Profile.PNG");
 
           background-size: cover;
           background-position: center top;
@@ -464,7 +464,7 @@ export default function App() {
               rgba(20,25,33,0.15),
               rgba(20,25,33,0.15)
             ),
-            url("/profile.png");
+            url("/Profile.PNG");
 
           background-size: cover;
           background-position: center top;
