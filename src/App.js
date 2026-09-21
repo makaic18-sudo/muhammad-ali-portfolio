@@ -390,11 +390,11 @@ export default function App() {
           );
 
           background:
-          linear-gradient(
-    rgba(20,25,33,0.15),
-    rgba(20,25,33,0.15)
-  ),
-  url("/Profile.PNG");
+            linear-gradient(
+              rgba(20,25,33,0.15),
+              rgba(20,25,33,0.15)
+            ),
+            url("/Profile.PNG");
 
           background-size: cover;
           background-position: center top;
