@@ -2109,6 +2109,8 @@ export default function App() {
                 Technical Skills
               </h2>
 
+              <Skill name="DevOps" percent={90} />
+
               <Skill name="AWS Services" percent={90} />
 
               <Skill name="Security & IAM" percent={85} />
@@ -2157,6 +2159,7 @@ export default function App() {
           <div className="skill-tags">
 
             {[
+              "DevOps",
               "VPC",
               "EC2",
               "IAM",
