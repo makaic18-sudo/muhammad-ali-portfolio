@@ -1957,8 +1957,8 @@ export default function App() {
             </h1>
 
             <div className="typing">
-              And I'm an{" "}
-              <strong>AWS Cloud Engineer</strong>
+              And I'm a{" "}
+              <strong>DevOps / AWS Cloud Engineer</strong>
             </div>
 
             <p className="description">
@@ -2117,6 +2117,9 @@ export default function App() {
 
               <Skill name="Networking & VPC" percent={85} />
 
+              <Skill name="Git & GitHub" percent={80} />
+
+
               <Skill name="Storage & Databases" percent={80} />
 
               <Skill name="Serverless & Lambda" percent={75} />
@@ -2160,6 +2163,8 @@ export default function App() {
 
             {[
               "DevOps",
+              "Git",
+              "GitHub",
               "VPC",
               "EC2",
               "IAM",
