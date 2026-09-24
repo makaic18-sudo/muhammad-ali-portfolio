@@ -2052,7 +2052,7 @@ export default function App() {
             </h2>
 
             <h3>
-              AWS Cloud Engineer
+              DevOps / AWS Cloud Engineer
             </h3>
 
             <p>
