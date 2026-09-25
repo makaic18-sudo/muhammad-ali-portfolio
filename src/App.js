@@ -2163,6 +2163,7 @@ export default function App() {
 
             {[
               "DevOps",
+              "CI / CD",
               "Git",
               "GitHub",
               "VPC",
@@ -2465,7 +2466,7 @@ export default function App() {
                 </h3>
 
                 <span className="date">
-                  Jun 2025 — Present
+                  Jun 2026 — Present
                 </span>
 
                 <ul>
@@ -2506,6 +2507,50 @@ export default function App() {
           </div>
 
         </div>
+        <div className="container">
+
+
+          <div className="timeline">
+
+            <div className="timeline-item">
+
+              <div className="timeline-dot"></div>
+
+              <div className="experience-card">
+
+                <h2>
+                  Wordpress Developer Intern
+                </h2>
+
+                <h3>
+                  Groath Digital — Karachi
+                </h3>
+
+                <span className="date">
+                  June 2025 — August 2025
+                </span>
+
+                <ul>
+
+                  <li>
+                    Design and Implement Wordpress websites for clients.
+                  </li>
+
+                  <li>
+                    Implemented SEO, Speed and making Wordpress Websites live.
+                  </li>
+
+
+                </ul>
+
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+
 
       </section>
 
